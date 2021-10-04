@@ -1,0 +1,12 @@
+.box-card{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.box{
+    background-color: rgb(221, 209, 230);
+    border: 1px solid rgb(187, 173, 173);
+}
+.box:hover{
+    background-color: rgb(189, 196, 233);
+}

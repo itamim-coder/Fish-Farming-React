@@ -1,0 +1,17 @@
+.head{
+    background-color: rgb(47, 66, 83);
+    color: antiquewhite;
+}
+.nav-button{
+    text-decoration: none;
+    color: rgb(250, 250, 250);
+    padding: 10px 25px;
+    border: 1px solid gray;
+  margin: 20px;
+    transition: 0.3s;
+    
+}
+.nav-button:hover{
+    background-color: rgb(152, 210, 233);
+    color: rgb(53, 52, 49);
+}

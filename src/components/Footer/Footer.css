@@ -1,0 +1,15 @@
+.footer-div{
+   
+    background-color: rgb(46, 44, 44);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-font{
+    color: rgb(52, 204, 241);
+}
