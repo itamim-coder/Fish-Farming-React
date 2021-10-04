@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Fish Farming React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site : [Create React App](https://fish-farming.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+⚫By this website you can get fish farming plan.\
+⚫Have Many services clint can choose the best.\
+⚫we provide  hard working team
 
 ### `npm start`
 
