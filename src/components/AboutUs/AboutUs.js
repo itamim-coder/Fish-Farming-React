@@ -4,12 +4,12 @@ import "./About.css"
 
 const AboutUs = () => {
     return (
-        <div className="about container">
-            <div>
+        <div className="about container row m-5">
+            <div className=" col col-md-6 ">
              <img src={img} alt="" />
 
             </div>
-            <div className="about-text">
+            <div className="about-text col col-md-6 mt-5 text-center">
                <div className="section-head">
                <h5>About Us</h5>
                </div>
