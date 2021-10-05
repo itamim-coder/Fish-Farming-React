@@ -6,11 +6,19 @@ import "./Header.css"
 const Header = () => {
     return (
       <div className="text-center head">
+         
+      <div className="top-head">
+     <div className="site-name">
+     <h5>Fish Farming</h5>
+     </div>
+        <div>
         <h5>Fishing Makes Me Crazy </h5>
         <h3>FishingTastic</h3>
+        </div>
+        </div>
         <Navbar className="" expand="lg">
         <Container>
-          <h5>Fish Farming</h5>
+         
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">

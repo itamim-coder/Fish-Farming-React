@@ -1,6 +1,15 @@
+.section-name{
+    background-color: rgb(237, 239, 243);
+    margin: auto;
+    width: 200px;
+    border-radius: 15px;
+   
+   
+   
+}
 .team{
     border: 1px solid rgb(199, 192, 192);
-    text-align: center;
+   
     width: 365px;
     
 

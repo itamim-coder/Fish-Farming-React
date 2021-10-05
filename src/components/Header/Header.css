@@ -1,3 +1,14 @@
+.top-head{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(71, 77, 95);
+    color: rgb(214, 255, 253);
+}
+.site-name{   
+    margin-right: 500px;
+    color: rgb(255, 251, 29);
+}
 .head{
     background-color: rgb(47, 66, 83);
     color: antiquewhite;

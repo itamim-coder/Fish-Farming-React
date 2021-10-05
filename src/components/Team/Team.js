@@ -9,8 +9,10 @@ import img6 from './../../teamImg/team-img06.jpg'
 import './team.css'
 const Team = () => {
     return (
-      <div>
-        <h1 className="text-center mt-3 ">Our Team</h1>
+      <div >
+       <div className="section-name">
+       <h1 className="text-center mt-3">Our Team</h1>
+       </div>
         <div className="team-display container">
          
         <div className="team">

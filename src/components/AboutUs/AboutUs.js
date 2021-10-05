@@ -10,7 +10,9 @@ const AboutUs = () => {
 
             </div>
             <div className="about-text">
-                <h5>About Us</h5>
+               <div className="section-head">
+               <h5>About Us</h5>
+               </div>
                 <h1>Dedicated Fish Farming & Aqua Services</h1>
                 <p>Aqovo is a United States based aquaculture consulting company that provides expert opinions, technology transfer and many aqua project management services worldwide. We are in the significant opportunities for water and wastewater treatment contracts within our Aqua division, as well as products and systems for land-based farming.</p>
             </div>
